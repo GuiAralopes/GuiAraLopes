@@ -8,7 +8,7 @@ Sempre fui uma criança muito incentivada pelo meu pai a gostar de eletrônicos 
 
 * 🌍  Eu sou de Vila Velha, ES
 * ✉️  Você pode entrar em contato comigo em [araujolopesguilherme88@gmail.com](mailto:araujolopesguilherme88@gmail.com)
-* 🧠  I'm learning Banco de Dados e Programação Web
+* 🧠  Estou aprendendo Banco de Dados e Programação Web
 * ⚡  Gosto muito de esportes e jogos de FPS
 
 ### Skills
